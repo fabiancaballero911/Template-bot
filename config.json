@@ -1,7 +1,7 @@
 {
-    "token": "inserte su token",
+    "token": "inserte su token",//aca el token
     "everyoneMention": false,
     "hostedBy": false,
-    "default_prefix": "su prefix"
+    "default_prefix": "su prefix"//aca su prefix el qe quiera
 }
 
